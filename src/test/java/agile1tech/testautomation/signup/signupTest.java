@@ -6,6 +6,8 @@ public class signupTest {
 		
 		
 		System.out.println("Testing the project");
+		
+		System.out.println("Testing maven and git");
 
 	}
 
